@@ -1,21 +1,11 @@
 # AL-Africa-Cyber-Security-Project
 ACOL OSINT Report generator
-Input
-  ↓
-  ↓
-Generate report
-Input
-  ↓
-Collect public information
-  ↓
-Organize findings
-  ↓
-AI helps summarize
-  ↓
-Generate report
-Use Python + GitHub + ChatGPT.project/
-├── README.md
-├── src/
-├── tests/
-├── docs/
-└── LICENSE
+ACOL AI-Assisted OSINT & Cybersecurity Learning Lab
+Keep version 1 extremely small.
+Free/low-cost stack:
+GitHub — code + portfolio
+Python — programming
+ChatGPT — learning + coding assistance
+VS Code or another free editor
+Free/open-source cybersecurity tools
+Git — version control
